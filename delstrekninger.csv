@@ -1,0 +1,795 @@
+Bane Id;Bane;Banestrekning Id;Banestrekning;Status;Prioritet;Fra Km;Til Km;Delstrekning Id;Delstrekning;LOKSTATUS;LOKFRAKM;LOKTILKM;Stasjonsmidt;STASJON;Stasjon kortnavn;Banesjef;Område;BANEFRAKM;BANETILKM
+B33;Alnabanen;240;(Grefsen) - (Alnabru) godsspor;I DRIFT;5;0.928;3.317;0240-00001;(Grefsen) - (Alnabru) godsspor;I DRIFT;0.928;3.317;;USANN;;Oslo;Område Oslokorridoren;0.928;3.317
+B33;Alnabanen;250;(Grefsen) - (Alnabru) godsspor;NEDLAGT;5;3.18;3.317;0250-00001;(Grefsen) - (Alnabru) godsspor;NEDLAGT;3.18;3.317;;USANN;;Oslo;Område Oslokorridoren;0.928;3.317
+B29;Andre baner;1450;Filipstad stasjon;I DRIFT;4;0;2.478;1450-01030;Filipstad stasjon (delstr.) stasjon;I DRIFT;0;2.478;1.58;SANN;fil;Oslo;Område Oslokorridoren;0;491.2
+B29;Andre baner;2341;Minde - (Bergen);IKKE REG;5;487.9;491.2;2341-00001;Sporende - Minde;IKKE REG;487.9;488.027;;USANN;;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2341;Minde - (Bergen);IKKE REG;5;487.9;491.2;2341-23470;Minde stasjon;IKKE REG;488.027;488.5;488.26;SANN;min;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2341;Minde - (Bergen);IKKE REG;5;487.9;491.2;2341-00002;Minde - Kronstad;IKKE REG;488.5;489.34;;USANN;;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2341;Minde - (Bergen);IKKE REG;5;487.9;491.2;2341-23460;Kronstad stasjon;IKKE REG;489.34;489.765;489.63;SANN;kro;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2341;Minde - (Bergen);IKKE REG;5;487.9;491.2;2341-00003;Kronstad - Fløen (Bergen);IKKE REG;489.765;491.2;;USANN;;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2342;Tunestveit - Midttun;IKKE REG;5;459.36;481.54;2342-00001;Tunestveit - Midttun;IKKE REG;459.36;481.54;;USANN;;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2343;Havnebane Vest (Bergen) - Dokken;IKKE REG;5;470.9;472.223;2343-00001;Havnebane Vest Bergen - Dokken;IKKE REG;470.9;472.223;;USANN;;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2344;Havnebane Nord (Bergen) - Koengen;IKKE REG;5;471.045;472.853;2344-00001;Havnebane Nord Bergen - Koengen;IKKE REG;471.045;472.614;;USANN;;Bergensbanen Vest;Område Vest;0;491.2
+B29;Andre baner;2344;Havnebane Nord (Bergen) - Koengen;IKKE REG;5;471.045;472.853;2344-23520;Koengen stasjon;IKKE REG;472.614;472.853;472.853;SANN;koe;Bergensbanen Vest;Område Vest;0;491.2
+B17;Arendalsbanen;2160;(Nelaug) - Arendal;I DRIFT;4;282.111;317.73;2160-00001;Nelaug - Arendal;I DRIFT;282.111;317.357;;USANN;;Sørlandsbanen Midt;Område Sør;282.111;317.73
+B17;Arendalsbanen;2160;(Nelaug) - Arendal;I DRIFT;4;282.111;317.73;2160-21460;Arendal stasjon;I DRIFT;317.357;317.73;317.62;SANN;adl;Sørlandsbanen Midt;Område Sør;282.111;317.73
+B30;Askerbanen;1414;Lysaker - Asker Askerbanen;I DRIFT;1;6.488;36.605;1414-14040;Lysaker stasjon Askerbanen;I DRIFT;6.488;8.327;7;SANN;lys;Oslo;Område Oslokorridoren;6.488;36.605
+B30;Askerbanen;1414;Lysaker - Asker Askerbanen;I DRIFT;1;6.488;36.605;1414-00001;Lysaker - Sandvika Askerbanen;I DRIFT;7.961;13.205;;USANN;;Oslo;Område Oslokorridoren;6.488;36.605
+B30;Askerbanen;1414;Lysaker - Asker Askerbanen;I DRIFT;1;6.488;36.605;1414-14080;Sandvika stasjon Askerbanen;I DRIFT;13.01;15.36;14.14;SANN;sv;Oslo;Område Oslokorridoren;6.488;36.605
+B30;Askerbanen;1414;Lysaker - Asker Askerbanen;I DRIFT;1;6.488;36.605;1414-00002;Sandvika - Asker Askerbanen;I DRIFT;15.36;22.408;;USANN;;Oslo;Område Oslokorridoren;6.488;36.605
+B30;Askerbanen;1414;Lysaker - Asker Askerbanen;I DRIFT;1;6.488;36.605;1414-14130;Asker stasjon Askerbanen;I DRIFT;22.408;36.605;23.83;SANN;asr;Oslo;Område Oslokorridoren;6.488;36.605
+B07;Bergensbanen;1680;(Hønefoss) - (Trolldalen);I DRIFT;3;90.6;129.145;1680-00001;Hønefoss - Veme;I DRIFT;90.6;100.03;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;1680;(Hønefoss) - (Trolldalen);I DRIFT;3;90.6;129.145;1680-23028;Veme stasjon;I DRIFT;100.03;101.1;100.45;SANN;vem;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;1680;(Hønefoss) - (Trolldalen);I DRIFT;3;90.6;129.145;1680-00002;Veme - Sokna;I DRIFT;101.1;111.484;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;1680;(Hønefoss) - (Trolldalen);I DRIFT;3;90.6;129.145;1680-23030;Sokna stasjon;I DRIFT;111.484;112.877;111.99;SANN;sok;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;1680;(Hønefoss) - (Trolldalen);I DRIFT;3;90.6;129.145;1680-00003;Sokna - Trolldalen;I DRIFT;112.877;129.145;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23050;Trolldalen stasjon;I DRIFT;129.145;130.583;129.7;SANN;tda;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00001;Trolldalen - Gulsvik;I DRIFT;130.583;139.765;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23060;Gulsvik stasjon;I DRIFT;139.765;143.26;140.78;SANN;guv;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00002;Gulsvik - Flå;I DRIFT;143.26;151.55;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23070;Flå stasjon;I DRIFT;151.55;152.815;152;SANN;flå;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00003;Flå - Bergheim;I DRIFT;152.815;169.024;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23100;Bergheim stasjon;I DRIFT;169.024;170.37;169.97;SANN;bgh;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00004;Bergheim - Nesbyen;I DRIFT;170.37;184.44;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23130;Nesbyen stasjon;I DRIFT;184.44;186.059;185.42;SANN;nes;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00005;Nesbyen - Gol;I DRIFT;186.059;201.593;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23150;Gol stasjon;I DRIFT;201.593;203.11;202.38;SANN;gol;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00006;Gol - Torpo;I DRIFT;203.11;216.081;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23160;Torpo stasjon;I DRIFT;216.081;219.324;217.85;SANN;tpo;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-00007;Torpo - Ål;I DRIFT;219.324;227.022;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2301;Trolldalen - Ål;I DRIFT;3;129.145;228.811;2301-23170;Ål stasjon;I DRIFT;227.022;228.811;228.21;SANN;ål;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-00001;Ål - Hol;I DRIFT;228.811;240.645;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-23180;Hol stasjon;I DRIFT;240.645;243.045;241.55;SANN;hol;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-00002;Hol - Geilo;I DRIFT;243.045;252.335;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-23190;Geilo stasjon;I DRIFT;252.335;253.7;252.74;SANN;glo;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-00003;Geilo - Ustaoset;I DRIFT;253.7;263.783;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-23200;Ustaoset stasjon;I DRIFT;263.783;265.092;264.67;SANN;ust;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2310;(Ål) - (Haugastøl);I DRIFT;3;228.811;274.597;2310-00004;Ustaoset - Haugastøl;I DRIFT;265.092;274.597;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2311;Haugastøl - Finse;I DRIFT;3;274.597;303.05;2311-23210;Haugastøl stasjon;I DRIFT;274.597;275.97;275.5;SANN;hau;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2311;Haugastøl - Finse;I DRIFT;3;274.597;303.05;2311-00001;Haugastøl - Tunga;I DRIFT;275.97;287.395;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2311;Haugastøl - Finse;I DRIFT;3;274.597;303.05;2311-23215;Tunga stasjon;I DRIFT;287.395;290.585;288.89;SANN;tng;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2311;Haugastøl - Finse;I DRIFT;3;274.597;303.05;2311-00002;Tunga - Finse;I DRIFT;290.585;301.149;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2311;Haugastøl - Finse;I DRIFT;3;274.597;303.05;2311-23220;Finse stasjon;I DRIFT;301.149;303.05;302.1;SANN;fin;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2311;Haugastøl - Finse;I DRIFT;3;274.597;303.05;2311-00005;;I DRIFT;;;;USANN;;Bergensbanen Øst;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-00001;Finse - Fagernut;I DRIFT;303.05;308.506;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-23225;Fagernut stasjon;I DRIFT;308.506;310.36;309.58;SANN;fgn;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-00002;Fagernut - Hallingskeid;I DRIFT;310.36;322.35;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-23230;Hallingskeid stasjon;I DRIFT;322.35;323.47;322.8;SANN;hal;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-00003;Hallingskeid - Myrdal;I DRIFT;323.47;335.062;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-23240;Myrdal stasjon;I DRIFT;335.062;336.7;335.8;SANN;myr;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-00004;Myrdal - Mjølfjell;I DRIFT;336.7;353.591;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-23260;Mjølfjell stasjon;I DRIFT;353.591;355.216;354.22;SANN;mfj;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-00005;Mjølfjell - Reimegrend;I DRIFT;355.216;362.253;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2312;(Finse) - Reimegrend;I DRIFT;3;303.05;363.575;2312-23270;Reimegrend stasjon;I DRIFT;362.253;363.575;362.73;SANN;rmg;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2320;(Reimegrend) - Voss;I DRIFT;3;363.575;386.233;2320-00001;Reimegrend - Urdland;I DRIFT;363.575;370.3;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2320;(Reimegrend) - Voss;I DRIFT;3;363.575;386.233;2320-23280;Urdland stasjon;I DRIFT;370.3;372.11;371.52;SANN;urd;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2320;(Reimegrend) - Voss;I DRIFT;3;363.575;386.233;2320-00002;Urdland - Voss;I DRIFT;372.11;384.71;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2320;(Reimegrend) - Voss;I DRIFT;3;363.575;386.233;2320-23300;Voss stasjon;I DRIFT;384.71;386.233;385.32;SANN;vos;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-00001;Voss - Bulken;I DRIFT;386.233;391.5;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-23310;Bulken stasjon;I DRIFT;391.5;394.53;392.55;SANN;bul;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-00002;Bulken - Evanger;I DRIFT;394.53;403.09;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-23330;Evanger stasjon;I DRIFT;403.09;404.322;403.66;SANN;evg;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-00003;Evanger - Bolstadøyri;I DRIFT;404.322;413.5;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-23340;Bolstadøyri stasjon;I DRIFT;413.5;415.2;414.13;SANN;bol;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-00004;Bolstadøyri - Dale;I DRIFT;415.2;424.05;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2330;(Voss) - Dale;I DRIFT;2;386.233;425.866;2330-23350;Dale stasjon;I DRIFT;424.05;425.866;425.29;SANN;dl;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-00001;Dale - Stanghelle;I DRIFT;425.866;431.515;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-23360;Stanghelle stasjon;I DRIFT;431.515;433.047;432.22;SANN;sth;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-00002;Stanghelle - Vaksdal;I DRIFT;433.047;439.707;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-23370;Vaksdal stasjon;I DRIFT;439.707;441.119;440.53;SANN;vad;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-00003;Vaksdal - Trengereid;I DRIFT;441.119;449.58;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-23390;Trengereid stasjon;I DRIFT;449.58;452.707;452.41;SANN;trd;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-00004;Trengereid - Arna;I DRIFT;452.707;460.92;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-23420;Arna stasjon;I DRIFT;460.92;462.88;461.93;SANN;arn;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-00005;Arna - Bergen;I DRIFT;462.88;469.983;;USANN;;Bergensbanen Vest;Område Vest;90.6;471.25
+B07;Bergensbanen;2340;(Dale) - Bergen;I DRIFT;2;425.866;471.25;2340-23510;Bergen stasjon;I DRIFT;469.983;471.25;471.25;SANN;brg;Bergensbanen Vest;Område Vest;90.6;471.25
+B13;Bratsbergbanen;1820;(Nordagutu) - (Skien);I DRIFT;4;146.582;179.762;1820-00001;Nordagutu - Valebø;I DRIFT;146.582;155.526;;USANN;;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1820;(Nordagutu) - (Skien);I DRIFT;4;146.582;179.762;1820-18120;Valebø stasjon;I DRIFT;155.526;157.459;156.09;SANN;vbø;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1820;(Nordagutu) - (Skien);I DRIFT;4;146.582;179.762;1820-00002;Valebø - Skien;I DRIFT;157.459;179.762;;USANN;;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-18150;Skien stasjon;I DRIFT;179.762;180.836;180.5;SANN;skn;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-00001;Skien - Borgestad;I DRIFT;180.836;185.876;;USANN;;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-18190;Borgestad stasjon;I DRIFT;185.876;187.482;186.8;SANN;bos;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-00002;Borgestad - Porsgrunn;I DRIFT;187.482;189.412;;USANN;;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-18210;Porsgrunn stasjon;I DRIFT;189.412;190.615;190.12;SANN;pg;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-00003;Porsgrunn - Eidanger;I DRIFT;190.615;192.875;;USANN;;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B13;Bratsbergbanen;1830;Skien - Eidanger;I DRIFT;2;179.762;193.855;1830-15240;Eidanger stasjon;I DRIFT;192.875;193.855;193.387;SANN;eid;Sørlandsbanen Øst;Område Sør;146.582;193.855
+B25;Brevikbanen;1560;(Eidanger) - Brevik;I DRIFT;5;193.414;201.75;1560-00001;Eidanger - Brevik (delstr.);I DRIFT;193.414;201.75;;USANN;;Sørlandsbanen Øst;Område Sør;193.414;201.75
+B25;Brevikbanen;1560;(Eidanger) - Brevik;I DRIFT;5;193.414;201.75;1560-15246;Brevik stasjon;I DRIFT;;;202.62;SANN;bre;Sørlandsbanen Øst;Område Sør;193.414;201.75
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00001;Eidsvoll - Minnesund;I DRIFT;69.572;74.5;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07020;Minnesund stasjon;I DRIFT;74.5;76.019;75.33;SANN;msu;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00002;Minnesund - Morskogen;I DRIFT;76.019;83.14;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07025;Molykkja stasjon  (NEDLAGT);NEDLAGT;78.925;80.22;79.71;SANN;mol;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00003;Molykkja - Morskogen  (NEDLAGT);NEDLAGT;80.22;83.14;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07030;Morskogen stasjon;I DRIFT;83.14;84.45;84.05;SANN;mor;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00004;Morskogen - Strandlykkja;I DRIFT;84.45;89.12;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07040;Strandlykkja stasjon;I DRIFT;89.12;90.308;89.81;SANN;sly;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00005;Strandlykkja - Espa;I DRIFT;90.308;96.47;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07050;Espa stasjon;I DRIFT;96.47;97.715;96.99;SANN;epa;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00006;Espa - Tangen;I DRIFT;97.715;101.002;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07060;Tangen stasjon;I DRIFT;101.002;102.379;101.77;SANN;tan;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00007;Tangen - Steinsrud;I DRIFT;102.379;106.986;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07070;Steinsrud stasjon;I DRIFT;106.986;108.716;107.47;SANN;ste;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00008;Steinsrud - Sørli;I DRIFT;108.7;109.787;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07075;Sørli stasjon;I DRIFT;109.787;111.105;110.79;SANN;sri;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00009;Sørli - Stange;I DRIFT;111.105;113.818;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07080;Stange stasjon;I DRIFT;113.818;115.293;114.42;SANN;stg;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00010;Stange - Ottestad;I DRIFT;115.293;117.739;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07090;Ottestad stasjon;I DRIFT;117.739;120.035;119.25;SANN;ott;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-00011;Ottestad - Hamar;I DRIFT;120.035;125.28;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;700;(Eidsvoll) - Hamar;I DRIFT;2;69.572;127.534;0700-07110;Hamar stasjon;I DRIFT;125.28;127.534;126.26;SANN;hmr;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00001;Hamar - Jessnes;I DRIFT;127.21;132.282;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07150;Jessnes stasjon;I DRIFT;132.282;133.969;133.19;SANN;jes;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00002;Jessnes - Brumunddal;I DRIFT;133.969;139.271;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07160;Brumunddal stasjon;I DRIFT;139.271;141.171;139.9;SANN;brd;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00003;Brumunddal - Rudshøgda;I DRIFT;141.171;147.1;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07180;Rudshøgda stasjon;I DRIFT;147.1;150.111;148.23;SANN;rud;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00004;Rudshøgda - Moelv;I DRIFT;150.111;155.373;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07200;Moelv stasjon;I DRIFT;155.373;157.22;155.95;SANN;mlv;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00005;Moelv - Bergsvika kr.spor;I DRIFT;157.22;162.38;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07210;Bergsvika kr.spor stasjon;I DRIFT;162.38;164.355;162.91;SANN;bvk;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00006;Bergsvika kr.spor - Brøttum;I DRIFT;164.355;167.62;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07220;Brøttum stasjon;I DRIFT;167.62;169.124;168.47;SANN;bum;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00007;Brøttum - Bergseng;I DRIFT;169.124;174.273;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07230;Bergseng stasjon;I DRIFT;174.273;175.496;174.71;SANN;bgg;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00008;Bergseng - Lillehammer;I DRIFT;175.496;183.823;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07250;Lillehammer stasjon;I DRIFT;183.823;185.174;184.18;SANN;lhm;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00009;Lillehammer - Hove;I DRIFT;185.174;186.975;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07252;Hove stasjon;I DRIFT;186.975;188.842;187.75;SANN;hve;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-00010;Hove - Fåberg;I DRIFT;188.842;191.266;;USANN;;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;710;(Hamar) - Fåberg;I DRIFT;2;127.21;192.584;0710-07280;Fåberg stasjon;I DRIFT;191.266;192.584;191.68;SANN;fåb;Dovrebanen Sør;Område Oslokorridoren;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00003;Fåberg - Øyer;I DRIFT;192.584;202.416;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07300;Øyer stasjon;I DRIFT;202.416;203.587;203.21;SANN;øye;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00004;Øyer - Tretten;I DRIFT;203.587;213.794;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07310;Tretten stasjon;I DRIFT;213.794;215.261;214.35;SANN;tre;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00005;Tretten - Losna;I DRIFT;215.261;223.84;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07320;Losna stasjon;I DRIFT;223.84;225.01;224.15;SANN;los;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00006;Losna - Fåvang;I DRIFT;225.01;230.962;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07330;Fåvang stasjon;I DRIFT;230.962;234.2;232.19;SANN;fåv;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00007;Fåvang - Ringebu;I DRIFT;234.2;242.026;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07340;Ringebu stasjon;I DRIFT;242.026;243.23;242.55;SANN;rbu;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00008;Ringebu - Hundorp;I DRIFT;243.23;251.16;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07360;Hundorp stasjon;I DRIFT;251.16;252.901;252.45;SANN;hun;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00009;Hundorp - Fron;I DRIFT;252.901;258.25;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07370;Fron stasjon;I DRIFT;258.25;259.846;259.26;SANN;frn;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-00010;Fron - Vinstra;I DRIFT;259.846;265.961;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;720;(Fåberg) - Vinstra;I DRIFT;3;192.584;267.21;0720-07390;Vinstra stasjon;I DRIFT;265.961;267.21;266.6;SANN;vin;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00001;Vinstra - Kvam;I DRIFT;267.21;275.802;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07400;Kvam stasjon;I DRIFT;275.802;277.662;276.57;SANN;kva;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00002;Kvam - Sjoa;I DRIFT;277.662;285.456;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07410;Sjoa stasjon;I DRIFT;285.456;287.583;286.35;SANN;sjo;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00003;Sjoa - Otta;I DRIFT;287.583;296.491;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07430;Otta stasjon;I DRIFT;296.491;298.095;297.24;SANN;ota;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00004;Otta - Sel;I DRIFT;298.095;305.818;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07440;Sel stasjon;I DRIFT;305.818;308.713;307.73;SANN;sel;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00005;Sel - Brennhaug;I DRIFT;308.713;321.42;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07450;Brennhaug stasjon;I DRIFT;321.42;322.63;321.83;SANN;brh;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00006;Brennhaug - Dovre;I DRIFT;322.63;330.065;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07460;Dovre stasjon;I DRIFT;330.065;331.723;330.82;SANN;dov;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-00007;Dovre - Dombås;I DRIFT;331.723;342.15;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;721;(Vinstra) - Dombås;I DRIFT;3;267.21;343.738;0721-07470;Dombås stasjon;I DRIFT;342.15;343.738;343.04;SANN;dom;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1100;(Dombås) - Hjerkinn;I DRIFT;3;343.596;382.33;1100-00001;Dombås - Fokstua;I DRIFT;343.596;361.12;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1100;(Dombås) - Hjerkinn;I DRIFT;3;343.596;382.33;1100-11002;Fokstua stasjon;I DRIFT;361.12;362.35;361.65;SANN;fok;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1100;(Dombås) - Hjerkinn;I DRIFT;3;343.596;382.33;1100-00002;Fokstua - Vålåsjø;I DRIFT;362.35;371.6002;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1100;(Dombås) - Hjerkinn;I DRIFT;3;343.596;382.33;1100-11015;Vålåsjø stasjon;I DRIFT;371.6002;373.4351;372.62;SANN;vål;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1100;(Dombås) - Hjerkinn;I DRIFT;3;343.596;382.33;1100-00003;Vålåsjø - Hjerkinn;I DRIFT;373.4351;381.15;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1100;(Dombås) - Hjerkinn;I DRIFT;3;343.596;382.33;1100-11020;Hjerkinn stasjon;I DRIFT;381.15;382.33;381.74;SANN;hjn;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1110;(Hjerkinn) - Oppdal;I DRIFT;3;382.33;430.2;1110-00001;Hjerkinn - Kongsvoll;I DRIFT;382.33;392.505;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1110;(Hjerkinn) - Oppdal;I DRIFT;3;382.33;430.2;1110-11030;Kongsvoll stasjon;I DRIFT;392.505;393.74;393.23;SANN;kvl;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1110;(Hjerkinn) - Oppdal;I DRIFT;3;382.33;430.2;1110-00002;Kongsvoll - Drivstua;I DRIFT;393.74;406.12;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1110;(Hjerkinn) - Oppdal;I DRIFT;3;382.33;430.2;1110-11040;Drivstua stasjon;I DRIFT;406.12;407.74;407.12;SANN;drs;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1110;(Hjerkinn) - Oppdal;I DRIFT;3;382.33;430.2;1110-00003;Drivstua - Oppdal;I DRIFT;407.74;428.37;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1110;(Hjerkinn) - Oppdal;I DRIFT;3;382.33;430.2;1110-11070;Oppdal stasjon;I DRIFT;428.37;430.2;429.28;SANN;opd;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-00001;Oppdal - Fagerhaug;I DRIFT;430.2;440.47;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-11080;Fagerhaug stasjon;I DRIFT;440.47;442.07;441.35;SANN;fgh;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-00002;Fagerhaug - Ulsberg;I DRIFT;442.07;453.886;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-11090;Ulsberg stasjon;I DRIFT;453.886;456.1;455.17;SANN;ubg;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-00003;Ulsberg - Berkåk;I DRIFT;456.1;465.278;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-11100;Berkåk stasjon;I DRIFT;465.278;467.08;466.35;SANN;båk;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-00004;Berkåk - Garli;I DRIFT;467.08;476.28;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-11110;Garli stasjon;I DRIFT;476.28;479.202;477.31;SANN;gal;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-00005;Garli - Soknedal;I DRIFT;479.202;485.26;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-11120;Soknedal stasjon;I DRIFT;485.26;487.55;486.6;SANN;sdl;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1111;(Oppdal) - (Støren);I DRIFT;3;430.2;500.585;1111-00006;Soknedal - Støren;I DRIFT;487.55;500.585;;USANN;;Dovre- og Raumabanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11140;Støren stasjon;I DRIFT;500.22;502.192;501.2;SANN;stø;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00001;Støren - Hovin;I DRIFT;502.192;507.191;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11150;Hovin stasjon;I DRIFT;507.191;508.451;507.89;SANN;hoi;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00002;Hovin - Lundamo;I DRIFT;508.451;513.96;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11160;Lundamo stasjon;I DRIFT;513.96;515.37;514.78;SANN;lmo;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00003;Lundamo - Ler;I DRIFT;515.37;519.89;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11170;Ler stasjon;I DRIFT;519.89;521.11;520.49;SANN;ler;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00004;Ler - Søberg;I DRIFT;521.11;527.95;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11190;Søberg stasjon;I DRIFT;527.95;529.33;528.77;SANN;søb;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00005;Søberg - Melhus;I DRIFT;529.33;531.54;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11200;Melhus stasjon;I DRIFT;531.54;532.75;532.09;SANN;mel;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00006;Melhus - Nypan;I DRIFT;532.75;536.44;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11210;Nypan stasjon;I DRIFT;536.44;537.54;537.11;SANN;nyp;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00007;Nypan - Heimdal;I DRIFT;537.54;540.67;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11220;Heimdal stasjon;I DRIFT;540.67;541.95;541.41;SANN;hmd;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00008;Heimdal - Selsbakk;I DRIFT;541.95;545.98;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11230;Selsbakk stasjon;I DRIFT;545.98;547.31;546.44;SANN;slb;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-00009;Selsbakk - Trondheim;I DRIFT;547.31;549.7;;USANN;;Trønderbanen;Område Midt;69.572;553.695
+B02;Dovrebanen;1120;Støren - Trondheim;I DRIFT;2;500.22;553.695;1120-11261;Trondheim stasjon;I DRIFT;549.42;553.695;552.85;SANN;tnd;Trønderbanen;Område Midt;69.572;553.695
+B20;Drammenbanen;1400;(Oslo S) - Lysaker;I DRIFT;1;2.069;8.327;1400-00001;Oslo S - Skøyen;I DRIFT;2.069;2.73;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1400;(Oslo S) - Lysaker;I DRIFT;1;2.069;8.327;1400-14020;Skøyen stasjon;I DRIFT;2.73;6.135;4.38;SANN;skø;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1400;(Oslo S) - Lysaker;I DRIFT;1;2.069;8.327;1400-00002;Skøyen - Lysaker;I DRIFT;6.135;6.488;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1400;(Oslo S) - Lysaker;I DRIFT;1;2.069;8.327;1400-14040;Lysaker stasjon Drammenbanen;I DRIFT;6.488;8.327;7;SANN;lys;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-00001;Lysaker - Stabekk;I DRIFT;8.327;8.521;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-14050;Stabekk stasjon;I DRIFT;8.521;9.566;8.99;SANN;stb;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-00002;Stabekk - Høvik;I DRIFT;9.566;9.778;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-14060;Høvik stasjon;I DRIFT;9.778;11.493;10.72;SANN;hvk;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-00003;Høvik - Sandvika;I DRIFT;11.493;13.205;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-14080;Sandvika stasjon Drammenbanen;I DRIFT;13.205;15.36;14.14;SANN;sv;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-00004;Sandvika - Billingstad;I DRIFT;15.36;16.85;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-14100;Billingstad stasjon;I DRIFT;16.85;18.346;17.62;SANN;bst;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-00005;Billingstad - Hvalstad;I DRIFT;18.346;19.308;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-14110;Hvalstad stasjon;I DRIFT;19.308;20.865;20.19;SANN;hva;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-00006;Hvalstad - Asker;I DRIFT;20.865;22.408;;USANN;;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1410;(Lysaker) - Asker;I DRIFT;1;8.327;36.605;1410-14130;Asker stasjon Drammenbanen;I DRIFT;22.408;36.605;23.83;SANN;asr;Oslo;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1420;(Asker) - Gulskogen;I DRIFT;1;36.605;56.163;1420-00001;Asker - Brakerøya;I DRIFT;36.605;49.667;;USANN;;Vestfoldbanen;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1420;(Asker) - Gulskogen;I DRIFT;1;36.605;56.163;1420-14190;Brakerøya stasjon;I DRIFT;49.667;51.345;50.76;SANN;bra;Vestfoldbanen;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1420;(Asker) - Gulskogen;I DRIFT;1;36.605;56.163;1420-00002;Brakerøya - Drammen;I DRIFT;51.345;52.088;;USANN;;Vestfoldbanen;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1420;(Asker) - Gulskogen;I DRIFT;1;36.605;56.163;1420-14210;Drammen stasjon;I DRIFT;52.088;54.07;52.86;SANN;drm;Vestfoldbanen;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1420;(Asker) - Gulskogen;I DRIFT;1;36.605;56.163;1420-00003;Drammen - Gulskogen;I DRIFT;53.888;54.8;;USANN;;Vestfoldbanen;Område Oslokorridoren;2.069;56.163
+B20;Drammenbanen;1420;(Asker) - Gulskogen;I DRIFT;1;36.605;56.163;1420-16000;Gulskogen stasjon;I DRIFT;54.8;56.163;55.27;SANN;gul;Vestfoldbanen;Område Oslokorridoren;2.069;56.163
+B37;Flekkefjordbanen;2250;(Sira) - Flekkefjord;IKKE REG;5;0.2;17.3;2250-00001;Sira - Flekkefjord (delstr.);IKKE REG;0.2;17.3;;USANN;;Sørlandsbanen Vest;Område Sør;0.2;17.3
+B22;Flåmsbana;2313;(Myrdal) - Flåm;I DRIFT;4;335.905;356.08;2313-00001;Myrdal - Berekvam;I DRIFT;335.905;345.736;;USANN;;Bergensbanen Vest;Område Vest;335.905;356.08
+B22;Flåmsbana;2313;(Myrdal) - Flåm;I DRIFT;4;335.905;356.08;2313-23605;Berekvam stasjon;I DRIFT;345.736;346.63;346.31;SANN;ber;Bergensbanen Vest;Område Vest;335.905;356.08
+B22;Flåmsbana;2313;(Myrdal) - Flåm;I DRIFT;4;335.905;356.08;2313-00002;Berekvam - Flåm;I DRIFT;346.63;355.566;;USANN;;Bergensbanen Vest;Område Vest;335.905;356.08
+B22;Flåmsbana;2313;(Myrdal) - Flåm;I DRIFT;4;335.905;356.08;2313-23610;Flåm stasjon;I DRIFT;355.566;356.08;356;SANN;fm;Bergensbanen Vest;Område Vest;335.905;356.08
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-00001;Oslo S - Hellerud;I DRIFT;3.79;5.28;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-02210;Hellerud stasjon;I DRIFT;5.28;6.931;6.2;SANN;hlr;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-00002;Hellerud - Lillestrøm;I DRIFT;6.931;13.229;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-02070;Lillestrøm stasjon;I DRIFT;13.229;26.181;20.95;SANN;lls;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-00003;Lillestrøm - Kløfta;I DRIFT;25.088;34.812;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-02110;Kløfta stasjon;I DRIFT;34.812;38.008;36.38;SANN;klø;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-00004;Kløfta - Langeland;I DRIFT;38.008;41.358;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-02118;Langeland stasjon;I DRIFT;41.358;46.03;42.22;SANN;lal;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-00005;Langeland - Gardermoen;I DRIFT;46.03;49.846;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;270;(Oslo S) - Gardermoen(GMB);I DRIFT;1;3.79;55.122;0270-02260;Gardermoen stasjon;I DRIFT;49.846;55.122;51.85;SANN;gar;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;280;(Gardermoen) - Eidsvoll;I DRIFT;1;55.122;69.572;0280-00001;Gardermoen - Bekkedalshøgda;I DRIFT;55.122;60.328;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;280;(Gardermoen) - Eidsvoll;I DRIFT;1;55.122;69.572;0280-02270;Bekkedalshøgda stasjon;I DRIFT;60.328;62.978;62.35;SANN;bkh;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;280;(Gardermoen) - Eidsvoll;I DRIFT;1;55.122;69.572;0280-00002;Bekkedalshøgda - Venjar;I DRIFT;62.978;65.137;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;280;(Gardermoen) - Eidsvoll;I DRIFT;1;55.122;69.572;0280-02280;Venjar stasjon;I DRIFT;65.137;66.546;65.7388;SANN;ven;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;280;(Gardermoen) - Eidsvoll;I DRIFT;1;55.122;69.572;0280-00003;Venjar - Eidsvoll;I DRIFT;66.546;67.984;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B23;Gardermobanen;280;(Gardermoen) - Eidsvoll;I DRIFT;1;55.122;69.572;0280-02160;Eidsvoll stasjon;I DRIFT;66.739;69.572;67.86;SANN;evl;Hoved- og Gardermobanen;Område Oslokorridoren;3.79;69.572
+B06;Gjøvikbanen;610;(Oslo S) - Grefsen;I DRIFT;3;3.46;7.47;0610-00001;Oslo S - Grefsen;I DRIFT;3.46;6.05;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;610;(Oslo S) - Grefsen;I DRIFT;3;3.46;7.47;0610-06010;Grefsen stasjon;I DRIFT;5.892;7.47;6.95;SANN;gre;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00001;Grefsen - Kjelsås;I DRIFT;7.47;9.78;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06030;Kjelsås stasjon;I DRIFT;9.78;10.77;10.28;SANN;kje;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00002;Kjelsås - Sandermosen;I DRIFT;10.77;15.2;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06040;Sandermosen stasjon;I DRIFT;15.2;16.44;15.85;SANN;sdm;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00003;Sandermosen - Movatn;I DRIFT;16.44;18.89;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06050;Movatn stasjon;I DRIFT;18.89;19.97;19.34;SANN;mvt;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00004;Movatn - Nittedal;I DRIFT;19.97;23.64;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06060;Nittedal stasjon;I DRIFT;23.64;24.71;24.26;SANN;nit;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00005;Nittedal - Åneby;I DRIFT;24.71;26.72;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06070;Åneby stasjon;I DRIFT;26.72;28.18;27.73;SANN;åby;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00006;Åneby - Hakadal;I DRIFT;28.18;31.51;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06080;Hakadal stasjon;I DRIFT;31.51;32.63;32.07;SANN;hak;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00007;Hakadal - Jensrud;I DRIFT;32.63;35.932;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06085;Jensrud stasjon;I DRIFT;35.932;38.1;36.85;SANN;jen;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00008;Jensrud - Stryken;I DRIFT;38.1;40.24;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06090;Stryken stasjon;I DRIFT;40.24;41.35;40.83;SANN;sy;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00009;Stryken - Monsrud;I DRIFT;41.35;43.52;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06100;Monsrud stasjon;I DRIFT;43.52;44.55;44.03;SANN;mon;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00010;Monsrud - Bjørgeseter;I DRIFT;44.55;48.58;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06110;Bjørgeseter stasjon;I DRIFT;48.58;49.67;49.11;SANN;bsr;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00011;Bjørgeseter - Grua;I DRIFT;49.67;52.63;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06120;Grua stasjon;I DRIFT;52.63;54.11;53.39;SANN;gru;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-00012;Grua - Roa;I DRIFT;54.11;56.98;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;620;(Grefsen) - Roa;I DRIFT;3;7.47;58.428;0620-06130;Roa stasjon;I DRIFT;56.98;58.428;57.74;SANN;roa;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;630;(Roa) - Eina;I DRIFT;3;58.4;101.673;0630-00001;Roa - Gran;I DRIFT;58.4;67.084;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;630;(Roa) - Eina;I DRIFT;3;58.4;101.673;0630-06150;Gran stasjon;I DRIFT;67.084;68.383;67.66;SANN;gra;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;630;(Roa) - Eina;I DRIFT;3;58.4;101.673;0630-00002;Gran - Jaren;I DRIFT;68.383;71.3;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;630;(Roa) - Eina;I DRIFT;3;58.4;101.673;0630-06160;Jaren stasjon;I DRIFT;71.3;72.49;71.92;SANN;jar;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;630;(Roa) - Eina;I DRIFT;3;58.4;101.673;0630-00003;Jaren - Eina;I DRIFT;72.49;100.283;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;630;(Roa) - Eina;I DRIFT;3;58.4;101.673;0630-06200;Eina stasjon;I DRIFT;100.283;101.673;100.89;SANN;ein;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;640;(Eina) - Gjøvik;I DRIFT;3;101.673;123.913;0640-00001;Eina - Raufoss;I DRIFT;101.673;111.24;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;640;(Eina) - Gjøvik;I DRIFT;3;101.673;123.913;0640-06220;Raufoss stasjon;I DRIFT;111.24;112.676;111.7;SANN;rau;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;640;(Eina) - Gjøvik;I DRIFT;3;101.673;123.913;0640-00002;Raufoss - Gjøvik;I DRIFT;112.676;123.203;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B06;Gjøvikbanen;640;(Eina) - Gjøvik;I DRIFT;3;101.673;123.913;0640-06260;Gjøvik stasjon;I DRIFT;123.203;123.913;123.83;SANN;gjø;Kongsvinger- og Gjøvikbanen;Område Øst;3.46;123.913
+B34;Godssporet Alnabru-Loenga;510;(Oslo S/Loenga) - (Alnabru skiftestasjon) godsspor;I DRIFT;4;2.405;5.529;0510-00001;Oslo S - Bryn;I DRIFT;2.405;3.54;;USANN;;Oslo;Område Oslokorridoren;2.405;5.529
+B34;Godssporet Alnabru-Loenga;510;(Oslo S/Loenga) - (Alnabru skiftestasjon) godsspor;I DRIFT;4;2.405;5.529;0510-02010;Bryn - Godstogsporet st.;I DRIFT;3.54;4.679;3.89;SANN;br;Oslo;Område Oslokorridoren;2.405;5.529
+B34;Godssporet Alnabru-Loenga;510;(Oslo S/Loenga) - (Alnabru skiftestasjon) godsspor;I DRIFT;4;2.405;5.529;0510-00002;Bryn - Alnabru skiftestasjon;I DRIFT;4.679;5.529;;USANN;;Oslo;Område Oslokorridoren;2.405;5.529
+B39;Hardangerbana;2331;(Voss) - Palmafoss;IKKE REG;5;385.828;389.208;2331-00001;Voss - Palmafoss;IKKE REG;385.828;388.59;;USANN;;Bergensbanen Vest;Område Vest;385.828;389.208
+B39;Hardangerbana;2331;(Voss) - Palmafoss;IKKE REG;5;385.828;389.208;2331-23305;Palmafoss stasjon;IKKE REG;388.59;389.208;388.74;SANN;pal;Bergensbanen Vest;Område Vest;385.828;389.208
+B19;Hovedbanen;10;Oslo S;I DRIFT;1;-2.069;3.79;0010-01000;Oslo S (delstr.) stasjon;I DRIFT;-2.069;3.79;0;SANN;osl;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;20;Lodalen;I DRIFT;4;0.98;2.118;0020-01003;Lodalen (delstr.) stasjon;I DRIFT;0.98;2.118;0;SANN;lod;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;30;Alnabru skiftestasjon;I DRIFT;1;3.317;9.61;0030-02013;Alnabru skiftestasjon (delstr.) stasjon;I DRIFT;3.317;9.61;0;SANN;alb;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;40;Loenga;I DRIFT;4;0.82;2.882;0040-05002;Loenga stasjon;I DRIFT;0.82;2.882;1.719;SANN;loe;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;210;(Oslo S) - Aker;I DRIFT;1;2.517;9.056;0210-00001;Oslo S - Bryn;I DRIFT;2.517;3.428;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;210;(Oslo S) - Aker;I DRIFT;1;2.517;9.056;0210-02010;Bryn stasjon;I DRIFT;3.428;4.731;3.89;SANN;br;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;210;(Oslo S) - Aker;I DRIFT;1;2.517;9.056;0210-00002;Bryn - Brobekk;I DRIFT;4.731;5.4;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;210;(Oslo S) - Aker;I DRIFT;1;2.517;9.056;0210-02012;Brobekk stasjon;I DRIFT;5.4;6.747;6;SANN;brb;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;210;(Oslo S) - Aker;I DRIFT;1;2.517;9.056;0210-00003;Brobekk - Aker;I DRIFT;6.747;7.606;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;210;(Oslo S) - Aker;I DRIFT;1;2.517;9.056;0210-02018;Aker stasjon;I DRIFT;7.606;9.056;8.72;SANN;ake;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-00001;Aker - Grorud;I DRIFT;9.056;9.895;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-02020;Grorud stasjon;I DRIFT;9.61;11.255;10.5;SANN;gro;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-00002;Grorud - Lørenskog;I DRIFT;11.255;13.319;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-02040;Lørenskog stasjon;I DRIFT;13.319;14.73;14.15;SANN;lør;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-00003;Lørenskog - Strømmen;I DRIFT;14.73;17.204;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-02060;Strømmen stasjon;I DRIFT;17.204;18.432;17.93;SANN;stn;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;220;(Aker) - (Lillestrøm);I DRIFT;1;9.056;19.732;0220-00004;Strømmen - Lillestrøm;I DRIFT;18.432;19.732;;USANN;;Oslo;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00001;Lillestrøm - Frogner;I DRIFT;26.181;28.827;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02090;Frogner stasjon;I DRIFT;28.827;30.508;29.86;SANN;fro;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00002;Frogner - Lindeberg;I DRIFT;30.508;31.669;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02100;Lindeberg stasjon;I DRIFT;31.669;33.431;32.39;SANN;lbg;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00003;Lindeberg - Kløfta;I DRIFT;33.431;35.363;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00004;Kløfta - Asper;I DRIFT;37.596;39.438;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02114;Asper stasjon;I DRIFT;39.438;41.172;40.5;SANN;ase;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00005;Asper - Langeland;I DRIFT;41.172;42.008;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00006;Langeland - Jessheim;I DRIFT;43.352;44.05;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02120;Jessheim stasjon;I DRIFT;44.05;45.492;44.6;SANN;jeh;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00007;Jessheim - Hauerseter;I DRIFT;45.492;48.882;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02130;Hauerseter stasjon;I DRIFT;48.882;50.289;49.62;SANN;hsr;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00008;Hauerseter - Sand;I DRIFT;50.289;52.498;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02131;Sand stasjon;I DRIFT;52.498;53.95;53.44;SANN;sad;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00009;Sand - Dal;I DRIFT;53.95;55.556;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02140;Dal stasjon;I DRIFT;55.556;57.69;57.2;SANN;dal;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00010;Dal - Bøn;I DRIFT;57.69;61.721;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-02150;Bøn stasjon;I DRIFT;61.721;62.875;62.24;SANN;bøn;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B19;Hovedbanen;230;(Lillestrøm) - (Eidsvoll);I DRIFT;3;26.181;66.739;0230-00011;Bøn - Eidsvoll;I DRIFT;62.875;66.739;;USANN;;Hoved- og Gardermobanen;Område Oslokorridoren;-2.069;66.739
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00001;Lillestrøm - Fetsund;I DRIFT;22.948;28.226;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03030;Fetsund stasjon;I DRIFT;28.226;29.817;29.11;SANN;fet;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00002;Fetsund - Roven;I DRIFT;29.817;32.249;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03040;Roven stasjon;I DRIFT;32.249;34.999;33.47;SANN;rvn;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00003;Roven - Sørumsand;I DRIFT;34.999;37.084;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03050;Sørumsand stasjon;I DRIFT;37.084;38.516;37.53;SANN;sør;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00004;Sørumsand - Blaker;I DRIFT;38.516;41.452;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03070;Blaker stasjon;I DRIFT;41.452;42.788;41.98;SANN;blk;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00005;Blaker - Rånåsfoss;I DRIFT;42.788;44.183;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03080;Rånåsfoss stasjon;I DRIFT;44.183;45.578;45.11;SANN;rfs;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00006;Rånåsfoss - Haga;I DRIFT;45.578;48.244;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03090;Haga stasjon;I DRIFT;48.244;49.461;48.87;SANN;hag;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00007;Haga - Årnes;I DRIFT;49.461;57.448;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03110;Årnes stasjon;I DRIFT;57.448;59.309;58.46;SANN;årn;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00008;Årnes - Seterstøa;I DRIFT;59.309;66.05;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03130;Seterstøa stasjon;I DRIFT;66.05;67.879;67.17;SANN;set;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00009;Seterstøa - Disenå;I DRIFT;67.879;72.12;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03140;Disenå stasjon;I DRIFT;72.12;73.947;73.35;SANN;dis;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00010;Disenå - Skarnes;I DRIFT;73.947;78.056;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03150;Skarnes stasjon;I DRIFT;78.056;80.096;79.24;SANN;ska;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00011;Skarnes - Sander;I DRIFT;80.096;86.598;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03160;Sander stasjon;I DRIFT;86.598;88.069;87.22;SANN;san;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00012;Sander - Galterud;I DRIFT;88.069;91.21;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03170;Galterud stasjon;I DRIFT;91.21;93.4;92.37;SANN;glt;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-00013;Galterud - Kongsvinger;I DRIFT;93.4;99.06;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;300;(Lillestrøm) - Kongsvinger;I DRIFT;3;22.948;101.963;0300-03180;Kongsvinger stasjon;I DRIFT;99.06;101.963;100.28;SANN;kvg;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-00001;Kongsvinger - Åbogen;I DRIFT;101.692;111.726;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-03200;Åbogen stasjon;I DRIFT;111.726;113.059;112.46;SANN;åbo;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-00002;Åbogen - Matrand;I DRIFT;113.059;121.652;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-03210;Matrand stasjon;I DRIFT;121.652;123.155;122.15;SANN;mat;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-00003;Matrand - Skotterud;I DRIFT;123.155;126.258;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-03220;Skotterud stasjon;I DRIFT;126.258;127.807;127.27;SANN;sko;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-00004;Skotterud - Magnor;I DRIFT;127.807;132.389;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-03230;Magnor stasjon;I DRIFT;132.389;133.852;133.08;SANN;mag;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B03;Kongsvingerbanen;310;(Kongsvinger) - Riksgrensen;I DRIFT;3;101.692;136.27;0310-00005;Magnor - Riksgrensen;I DRIFT;133.852;136.27;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;22.948;136.27
+B36;Kragerøbanen;2162;(Neslandsvatn) - Sannidal;IKKE REG;5;220.76;236.76;2162-00001;Neslandsvatn - Sannidal (delstr.);IKKE REG;220.76;236.76;;USANN;;Sørlandsbanen Midt;Område Sør;220.76;236.76
+B16;Meråkerbanen;1210;(Hell) - Storlien gr.;I DRIFT;3;32.545;102.23;1210-00001;Hell - Gudå;I DRIFT;32.545;71.393;;USANN;;Trønderbanen;Område Midt;32.545;102.23
+B16;Meråkerbanen;1210;(Hell) - Storlien gr.;I DRIFT;3;32.545;102.23;1210-12130;Gudå stasjon;I DRIFT;71.393;72.519;72.02;SANN;gu;Trønderbanen;Område Midt;32.545;102.23
+B16;Meråkerbanen;1210;(Hell) - Storlien gr.;I DRIFT;3;32.545;102.23;1210-00002;Gudå - Kopperå;I DRIFT;72.519;87.11;;USANN;;Trønderbanen;Område Midt;32.545;102.23
+B16;Meråkerbanen;1210;(Hell) - Storlien gr.;I DRIFT;3;32.545;102.23;1210-12150;Kopperå stasjon;I DRIFT;87.11;89.094;88.3;SANN;kpr;Trønderbanen;Område Midt;32.545;102.23
+B16;Meråkerbanen;1210;(Hell) - Storlien gr.;I DRIFT;3;32.545;102.23;1210-00003;Kopperå - Storlien gr.;I DRIFT;89.094;102.23;;USANN;;Trønderbanen;Område Midt;32.545;102.23
+B27;Namsosbanen;1360;(Grong) - Namsos;IKKE REG;5;220.05;271;1360-00001;Grong - Namsos (delstr.);IKKE REG;220.05;271;;USANN;;Nordlandsbanen Sør;Område Nord;220.05;271
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-00001;Trondheim - Leangen;I DRIFT;0.845;2.9;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-12010;Leangen stasjon;I DRIFT;2.9;4.02;3.49;SANN;lea;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-00002;Leangen - Ranheim;I DRIFT;4.02;6.71;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-12030;Ranheim stasjon;I DRIFT;6.71;8.09;7.42;SANN;rhm;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-00003;Ranheim - Vikhammer;I DRIFT;8.09;12.02;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-12040;Vikhammer stasjon;I DRIFT;12.02;13.62;12.69;SANN;vhr;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-00004;Vikhammer - Midtsandan;I DRIFT;13.62;17.499;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-12060;Midtsandan stasjon;I DRIFT;17.499;20.001;18.55;SANN;msd;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-00005;Midtsandan - Hommelvik;I DRIFT;20.001;22.66;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-12070;Hommelvik stasjon;I DRIFT;22.66;24.16;23.14;SANN;hmv;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-00006;Hommelvik - Hell;I DRIFT;24.16;30.04;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1200;(Trondheim) - Hell;I DRIFT;2;0.845;32.545;1200-12080;Hell stasjon;I DRIFT;30.04;32.545;31.54;SANN;hel;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00001;Hell - Stjørdal;I DRIFT;32.075;33.95;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13002;Stjørdal stasjon;I DRIFT;33.95;35.36;34.67;SANN;stj;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00002;Stjørdal - Skatval;I DRIFT;35.36;40.78;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13010;Skatval stasjon;I DRIFT;40.78;42.35;41.9;SANN;skv;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00003;Skatval - Langstein;I DRIFT;42.35;49.88;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13020;Langstein stasjon;I DRIFT;49.88;50.9;50.55;SANN;lst;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00004;Langstein - Åsen;I DRIFT;50.9;60.37;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13030;Åsen stasjon;I DRIFT;60.37;61.85;61.4;SANN;åse;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00005;Åsen - Ronglan;I DRIFT;61.85;69.23;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13040;Ronglan stasjon;I DRIFT;69.23;70.18;69.65;SANN;rla;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00006;Ronglan - Skogn;I DRIFT;70.18;75.25;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13050;Skogn stasjon;I DRIFT;75.25;77.13;76.01;SANN;sgn;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00007;Skogn - Levanger;I DRIFT;77.13;83;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13060;Levanger stasjon;I DRIFT;83;84.57;83.9;SANN;lev;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00008;Levanger - Bergsgrav;I DRIFT;84.57;92.8;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13072;Bergsgrav stasjon;I DRIFT;92.8;94.1;93.7;SANN;beg;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00009;Bergsgrav - Verdal;I DRIFT;94.1;95.744;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13080;Verdal stasjon;I DRIFT;95.744;96.82;96.23;SANN;vdl;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00010;Verdal - Røra;I DRIFT;96.82;104.94;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13100;Røra stasjon;I DRIFT;104.94;106.02;105.47;SANN;rø;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00011;Røra - Mære;I DRIFT;106.02;113.93;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13114;Mære stasjon;I DRIFT;113.93;115.24;114.844;SANN;mæ;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-00012;Mære - Steinkjer;I DRIFT;115.24;124.51;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1300;(Hell) - Steinkjer;I DRIFT;2;32.075;126.38;1300-13140;Steinkjer stasjon;I DRIFT;124.51;126.38;125.5;SANN;stk;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1301;(Skogn) - Fiborgtangen;I DRIFT;5;75.455;78.24;1301-00001;Skogn - Fiborgtangen;I DRIFT;75.455;78.24;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1302;(Verdal) - Verdal industriområde;I DRIFT;5;94.441;97;1302-00001;Verdal - Verdal industriområde;I DRIFT;94.441;97;;USANN;;Trønderbanen;Område Midt;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-00001;Steinkjer - Stod;I DRIFT;126.38;144;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-13180;Stod stasjon;I DRIFT;144;145.45;144.5;SANN;std;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-00002;Stod - Starrgrasmyra;I DRIFT;145.45;169.1;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-13190;Starrgrasmyra stasjon;I DRIFT;169.1;170.47;170.07;SANN;sgm;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-00003;Starrgrasmyra - Snåsa;I DRIFT;170.47;181.12;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-13210;Snåsa stasjon;I DRIFT;181.12;182.08;181.64;SANN;snå;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-00004;Snåsa - Agle;I DRIFT;182.08;190.2;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-13220;Agle stasjon;I DRIFT;190.2;191.77;190.72;SANN;agl;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-00005;Agle - Grong;I DRIFT;191.77;218.74;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1310;(Steinkjer) - Grong;I DRIFT;3;126.38;220.21;1310-13250;Grong stasjon;I DRIFT;218.74;220.21;219.54;SANN;grg;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-00001;Grong - Harran;I DRIFT;220.21;234.8;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-13350;Harran stasjon;I DRIFT;234.8;237.019;235.79;SANN;har;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-00002;Harran - Lassemoen;I DRIFT;237.019;254.03;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-13370;Lassemoen stasjon;I DRIFT;254.03;255.795;254.64;SANN;lsm;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-00003;Lassemoen - Namsskogan;I DRIFT;255.795;289.04;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-13410;Namsskogan stasjon;I DRIFT;289.04;290.823;290.25;SANN;nsk;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-00004;Namsskogan - Majavatn;I DRIFT;290.823;321.12;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1320;(Grong) - Majavatn;I DRIFT;3;220.21;322.912;1320-13440;Majavatn stasjon;I DRIFT;321.12;322.912;321.74;SANN;maj;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-00001;Majavatn - Svenningdal;I DRIFT;322.912;353.9;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-13470;Svenningdal stasjon;I DRIFT;353.9;355.625;354.49;SANN;sgd;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-00002;Svenningdal - Trofors;I DRIFT;355.625;366.165;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-13480;Trofors stasjon;I DRIFT;366.165;368;367.24;SANN;tro;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-00003;Trofors - Eiterstraum;I DRIFT;368;387.235;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-13490;Eiterstraum stasjon;I DRIFT;387.235;389.683;388.7;SANN;eit;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-00004;Eiterstraum - Mosjøen;I DRIFT;389.683;405.19;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1321;(Majavatn) - Mosjøen;I DRIFT;3;322.912;407.335;1321-13520;Mosjøen stasjon;I DRIFT;405.19;407.335;406.01;SANN;msj;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1330;(Mosjøen) - (Bjerka);I DRIFT;3;407.335;468.17;1330-00001;Mosjøen - Drevvatn;I DRIFT;407.335;439.954;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1330;(Mosjøen) - (Bjerka);I DRIFT;3;407.335;468.17;1330-13570;Drevvatn stasjon;I DRIFT;439.954;441.9;440.77;SANN;dvt;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1330;(Mosjøen) - (Bjerka);I DRIFT;3;407.335;468.17;1330-00002;Drevvatn - Bjerka;I DRIFT;441.9;468.17;;USANN;;Nordlandsbanen Sør;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13610;Bjerka stasjon;I DRIFT;468.17;469.71;468.68;SANN;bje;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-00000;Bjerka - Mo i Rana;I DRIFT;469.71;496.164;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13640;Mo i Rana stasjon;I DRIFT;496.164;501.032;497.98;SANN;mo;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-00001;Mo i Rana - Skonseng;I DRIFT;501.032;512.29;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13642;Skonseng stasjon;I DRIFT;512.29;513.58;512.65;SANN;seg;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-00002;Skonseng - Ørtfjell;I DRIFT;513.58;534.24;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13660;Ørtfjell stasjon;I DRIFT;534.24;535.256;534.63;SANN;øfj;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-00003;Ørtfjell - Dunderland;I DRIFT;535.256;541.985;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13700;Dunderland stasjon;I DRIFT;541.985;543.636;543.05;SANN;dun;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-00004;Dunderland - Bolna;I DRIFT;543.636;570.65;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13730;Bolna stasjon;I DRIFT;570.65;571.992;571.09;SANN;boa;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-00005;Bolna - Lønsdal;I DRIFT;571.992;601.758;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1340;Bjerka - Lønsdal;I DRIFT;3;468.17;602.7;1340-13760;Lønsdal stasjon;I DRIFT;601.758;602.7;602.15;SANN;løn;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1341;(Lønsdal) - Fauske;I DRIFT;3;602.7;675.26;1341-00001;Lønsdal - Rognan;I DRIFT;602.7;647.105;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1341;(Lønsdal) - Fauske;I DRIFT;3;602.7;675.26;1341-13820;Rognan stasjon;I DRIFT;647.105;648.105;647.76;SANN;rog;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1341;(Lønsdal) - Fauske;I DRIFT;3;602.7;675.26;1341-00002;Rognan - Fauske;I DRIFT;648.105;673.444;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1341;(Lønsdal) - Fauske;I DRIFT;3;602.7;675.26;1341-13850;Fauske stasjon;I DRIFT;673.444;675.26;674.23;SANN;fau;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1350;(Fauske) - Bodø;I DRIFT;3;675.26;728.75;1350-00001;Fauske - Oteråga;I DRIFT;675.26;703.644;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1350;(Fauske) - Bodø;I DRIFT;3;675.26;728.75;1350-13860;Oteråga stasjon;I DRIFT;703.644;704.5;704;SANN;otr;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1350;(Fauske) - Bodø;I DRIFT;3;675.26;728.75;1350-00002;Oteråga - Bodø;I DRIFT;704.5;727.856;;USANN;;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B05;Nordlandsbanen;1350;(Fauske) - Bodø;I DRIFT;3;675.26;728.75;1350-13880;Bodø stasjon;I DRIFT;727.856;728.75;728.75;SANN;bo;Nordlandsbanen Nord;Område Nord;0.845;728.75
+B18;Numedalsbanen;1700;(Kongsberg) - Rollag;IKKE REG;5;100.541;147.17;1700-00001;Kongsberg - Flesberg;IKKE REG;100.541;128.82;;USANN;;Sørlandsbanen Øst;Område Sør;100.541;196.2
+B18;Numedalsbanen;1700;(Kongsberg) - Rollag;IKKE REG;5;100.541;147.17;1700-17050;Flesberg stasjon;IKKE REG;128.82;129.86;129.49;SANN;fbg;Sørlandsbanen Øst;Område Sør;100.541;196.2
+B18;Numedalsbanen;1700;(Kongsberg) - Rollag;IKKE REG;5;100.541;147.17;1700-00002;Flesberg - Rollag;IKKE REG;129.86;147.17;;USANN;;Sørlandsbanen Øst;Område Sør;100.541;196.2
+B18;Numedalsbanen;1700;(Kongsberg) - Rollag;IKKE REG;5;100.541;147.17;1700-17060;Rollag stasjon;IKKE REG;147.17;147.17;147.17;SANN;rol;Sørlandsbanen Øst;Område Sør;100.541;196.2
+B18;Numedalsbanen;1710;(Rollag) - Rødberg;IKKE REG;5;147.17;196.2;1710-00001;(Rollag) - Rødberg;IKKE REG;147.17;196.2;;USANN;;Sørlandsbanen Øst;Område Sør;100.541;196.2
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-00001;Narvik havn - Narvik;I DRIFT;-0.498;3.003;;USANN;;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-24020;Narvik stasjon;I DRIFT;3.003;4.649;3.698;SANN;nk;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-00002;Narvik - Straumsnes;I DRIFT;4.649;12.875;;USANN;;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-24030;Straumsnes stasjon;I DRIFT;12.875;14.618;13.76;SANN;sms;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-00003;Straumsnes - Rombak;I DRIFT;14.618;20.259;;USANN;;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-24040;Rombak stasjon;I DRIFT;20.259;21.809;20.85;SANN;rom;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-00004;Rombak - Katterat;I DRIFT;21.809;28.655;;USANN;;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-24050;Katterat stasjon;I DRIFT;28.655;31.079;29.73;SANN;kat;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-00005;Katterat - Bjørnfjell;I DRIFT;31.079;39.719;;USANN;;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-24060;Bjørnfjell stasjon;I DRIFT;39.719;41.943;40.42;SANN;bjf;Ofotbanen;Område Nord;-0.498;42.99
+B21;Ofotbanen;2400;Narvik havn - Vassijaure;I DRIFT;1;-0.498;42.99;2400-00006;Bjørnfjell - Vassijaure;I DRIFT;41.943;42.99;;USANN;;Ofotbanen;Område Nord;-0.498;42.99
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-00001;Hokksund - Skotselv;I DRIFT;71.397;79.09;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-16080;Skotselv stasjon;I DRIFT;79.09;80.455;79.78;SANN;sev;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-00002;Skotselv - Åmot;I DRIFT;80.455;84.535;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-16090;Åmot stasjon;I DRIFT;84.535;85.759;85.37;SANN;åmo;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-00003;Åmot - Geithus;I DRIFT;85.759;89.927;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-16110;Geithus stasjon;I DRIFT;89.927;92.252;91.45;SANN;ghs;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-00004;Geithus - Vikersund;I DRIFT;92.252;95.4;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-16120;Vikersund stasjon;I DRIFT;95.4;96.54;95.91;SANN;vks;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-00005;Vikersund - Tyristrand;I DRIFT;96.54;110.137;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-16150;Tyristrand stasjon;I DRIFT;110.137;111.443;110.68;SANN;tyr;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1610;(Hokksund) - (Hønefoss);I DRIFT;3;71.397;123.515;1610-00006;Tyristrand - Hønefoss;I DRIFT;111.443;123.515;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1630;(Hønefoss) - Bergmoen snupl.;IKKE REG;5;125.303;140.5;1630-00001;Hønefoss - Hen;IKKE REG;125.303;130.3;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1630;(Hønefoss) - Bergmoen snupl.;IKKE REG;5;125.303;140.5;1630-16230;Hen stasjon;IKKE REG;130.3;131.499;130.92;SANN;hen;Bergensbanen Øst;Område Vest;71.397;140.5
+B12;Randsfjordbanen;1630;(Hønefoss) - Bergmoen snupl.;IKKE REG;5;125.303;140.5;1630-00002;Hen - Bergmoen snupl.;IKKE REG;131.499;140.5;;USANN;;Bergensbanen Øst;Område Vest;71.397;140.5
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-00001;Dombås - Lesja;I DRIFT;343.738;360.255;;USANN;;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-08010;Lesja stasjon;I DRIFT;360.255;361.155;360.68;SANN;les;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-00002;Lesja - Bjorli;I DRIFT;361.155;399.174;;USANN;;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-08050;Bjorli stasjon;I DRIFT;399.174;400.27;399.84;SANN;bjo;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-00003;Bjorli - Verma;I DRIFT;400.27;417.675;;USANN;;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-08060;Verma stasjon;I DRIFT;417.675;418.564;418.09;SANN;ver;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-00004;Verma - Marstein;I DRIFT;418.564;438.738;;USANN;;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-08075;Marstein stasjon;I DRIFT;438.738;439.545;439.16;SANN;mar;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-00005;Marstein - Åndalsnes;I DRIFT;439.545;455.171;;USANN;;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B14;Raumabanen;800;(Dombås) - Åndalsnes;I DRIFT;4;343.738;458.3;0800-08100;Åndalsnes stasjon;I DRIFT;455.171;458.3;457.28;SANN;ånd;Dovre- og Raumabanen;Område Midt;343.738;458.3
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-00001;Roa - Grindvoll;I DRIFT;58.428;65.16;;USANN;;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-06270;Grindvoll stasjon;I DRIFT;65.16;66.345;65.85;SANN;gvl;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-00002;Grindvoll - Jevnaker;I DRIFT;66.345;75.461;;USANN;;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-06280;Jevnaker stasjon;I DRIFT;75.461;77.074;76.52;SANN;jev;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-00003;Jevnaker - Hval;I DRIFT;77.074;84.865;;USANN;;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-06310;Hval stasjon;I DRIFT;84.865;85.85;85.42;SANN;hv;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-00004;Hval - Hønefoss;I DRIFT;85.85;89.27;;USANN;;Bergensbanen Øst;Område Vest;58.428;90.623
+B11;Roa-Hønefossbanen;670;(Roa) - Hønefoss;I DRIFT;4;58.428;90.623;0670-16170;Hønefoss stasjon;I DRIFT;88.835;90.623;89.57;SANN;hfs;Bergensbanen Øst;Område Vest;58.428;90.623
+B04;Rørosbanen;900;(Hamar) - Elverum;I DRIFT;3;127.534;159.766;0900-00001;Hamar - Løten;I DRIFT;127.534;143.364;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;900;(Hamar) - Elverum;I DRIFT;3;127.534;159.766;0900-09070;Løten stasjon;I DRIFT;143.364;144.6;143.78;SANN;løt;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;900;(Hamar) - Elverum;I DRIFT;3;127.534;159.766;0900-00002;Løten - Elverum;I DRIFT;144.6;157.676;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;900;(Hamar) - Elverum;I DRIFT;3;127.534;159.766;0900-09090;Elverum stasjon;I DRIFT;153.76;159.766;158.38;SANN;elv;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-00001;Elverum - Rudstad;I DRIFT;159.766;175.5;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-09120;Rudstad stasjon;I DRIFT;175.5;176.95;175.9;SANN;rad;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-00002;Rudstad - Rena;I DRIFT;176.95;189.585;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-09140;Rena stasjon;I DRIFT;189.585;190.863;190.38;SANN;ren;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-00003;Rena - Opphus;I DRIFT;190.863;213.05;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-09160;Opphus stasjon;I DRIFT;213.05;214.305;213.85;SANN;oph;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-00004;Opphus - Koppang;I DRIFT;214.305;246.216;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;910;(Elverum) - Koppang;I DRIFT;3;159.766;248.033;0910-09200;Koppang stasjon;I DRIFT;246.216;248.033;246.81;SANN;kop;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-00001;Koppang - Atna;I DRIFT;248.033;271.313;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-09220;Atna stasjon;I DRIFT;271.313;272.785;271.78;SANN;atn;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-00002;Atna - Hanestad;I DRIFT;272.785;284.28;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-09230;Hanestad stasjon;I DRIFT;284.28;285.45;285;SANN;han;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-00003;Hanestad - Alvdal;I DRIFT;285.45;323.362;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-09260;Alvdal stasjon;I DRIFT;323.362;324.84;324.23;SANN;alv;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-00004;Alvdal - Tynset;I DRIFT;324.84;346.38;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;920;(Koppang) - Tynset;I DRIFT;4;248.033;347.88;0920-09280;Tynset stasjon;I DRIFT;346.38;347.88;347.21;SANN;tyn;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1000;(Tynset) - Røros;I DRIFT;4;347.88;400.25;1000-00001;Tynset - Tolga;I DRIFT;347.88;366.916;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1000;(Tynset) - Røros;I DRIFT;4;347.88;400.25;1000-10020;Tolga stasjon;I DRIFT;366.916;369.4;368.15;SANN;tol;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1000;(Tynset) - Røros;I DRIFT;4;347.88;400.25;1000-00002;Tolga - Os;I DRIFT;369.4;384.192;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1000;(Tynset) - Røros;I DRIFT;4;347.88;400.25;1000-10040;Os stasjon;I DRIFT;384.192;385.815;384.87;SANN;os;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1000;(Tynset) - Røros;I DRIFT;4;347.88;400.25;1000-00003;Os - Røros;I DRIFT;385.815;398.273;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1000;(Tynset) - Røros;I DRIFT;4;347.88;400.25;1000-10060;Røros stasjon;I DRIFT;398.273;400.25;399.05;SANN;ros;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1010;(Røros) - Haltdalen;I DRIFT;4;400.25;454.3;1010-00001;Røros - Glåmos;I DRIFT;400.25;412.07;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1010;(Røros) - Haltdalen;I DRIFT;4;400.25;454.3;1010-10080;Glåmos stasjon;I DRIFT;412.07;412.913;412.54;SANN;gos;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1010;(Røros) - Haltdalen;I DRIFT;4;400.25;454.3;1010-00002;Glåmos - Haltdalen;I DRIFT;412.913;453.237;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1010;(Røros) - Haltdalen;I DRIFT;4;400.25;454.3;1010-10140;Haltdalen stasjon;I DRIFT;453.237;454.3;453.85;SANN;hdn;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1011;(Haltdalen) - (Støren);I DRIFT;4;454.3;509.604;1011-00001;Haltdalen - Singsås;I DRIFT;454.3;479.13;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1011;(Haltdalen) - (Støren);I DRIFT;4;454.3;509.604;1011-10170;Singsås stasjon;I DRIFT;479.13;480.314;479.92;SANN;sin;Røros- og Solørbanen;Område Midt;127.534;509.604
+B04;Rørosbanen;1011;(Haltdalen) - (Støren);I DRIFT;4;454.3;509.604;1011-00002;Singsås - Støren;I DRIFT;480.314;509.604;;USANN;;Røros- og Solørbanen;Område Midt;127.534;509.604
+B35;Sidesporet Nelaug-Simonstad;2161;(Nelaug) - Simonstad;IKKE REG;5;281.41;289.92;2161-00001;Nelaug - Simonstad (delstr.);IKKE REG;281.41;289.92;;USANN;;Sørlandsbanen Midt;Område Sør;281.41;289.92
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-00001;Kongsvinger - Kirkenær;I DRIFT;101.963;132.581;;USANN;;Røros- og Solørbanen;Område Midt;101.963;189.98
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-04050;Kirkenær stasjon;I DRIFT;132.581;133.592;133.14;SANN;kir;Røros- og Solørbanen;Område Midt;101.963;189.98
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-00002;Kirkenær- Flisa;I DRIFT;133.592;149.283;;USANN;;Røros- og Solørbanen;Område Midt;101.963;189.98
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-04080;Flisa stasjon;I DRIFT;149.283;150.874;150.15;SANN;fli;Røros- og Solørbanen;Område Midt;101.963;189.98
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-00003;Flisa - Braskereidfoss;I DRIFT;150.874;169.876;;USANN;;Røros- og Solørbanen;Område Midt;101.963;189.98
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-04110;Braskereidfoss stasjon;I DRIFT;169.876;170.695;170.26;SANN;bfs;Røros- og Solørbanen;Område Midt;101.963;189.98
+B15;Solørbanen;400;(Kongsvinger) - (Elverum);I DRIFT;4;101.963;189.98;0400-00004;Braskereidfoss - Elverum;I DRIFT;170.695;189.98;;USANN;;Røros- og Solørbanen;Område Midt;101.963;189.98
+B24;Spikkestadbanen;1460;(Asker) - Spikkestad;I DRIFT;3;25.357;37.7111;1460-00001;Asker - Heggedal;I DRIFT;25.357;28.8899;;USANN;;Oslo;Område Oslokorridoren;25.357;37.7111
+B24;Spikkestadbanen;1460;(Asker) - Spikkestad;I DRIFT;3;25.357;37.7111;1460-14320;Heggedal stasjon;I DRIFT;28.8899;29.7999;29.34;SANN;heg;Oslo;Område Oslokorridoren;25.357;37.7111
+B24;Spikkestadbanen;1460;(Asker) - Spikkestad;I DRIFT;3;25.357;37.7111;1460-00002;Heggedal - Spikkestad;I DRIFT;29.7999;37.2999;;USANN;;Oslo;Område Oslokorridoren;25.357;37.7111
+B24;Spikkestadbanen;1460;(Asker) - Spikkestad;I DRIFT;3;25.357;37.7111;1460-14360;Spikkestad stasjon;I DRIFT;37.2999;37.7111;37.51;SANN;spi;Oslo;Område Oslokorridoren;25.357;37.7111
+B31;Stavne-Leangenbanen;1130;(Stavne) - (Leangen);I DRIFT;5;548.927;554.57;1130-00001;Stavne - Leangen (delstr.);I DRIFT;548.927;554.57;;USANN;;Trønderbanen;Område Midt;548.927;554.57
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-00002;Gulskogen - Daler;I DRIFT;56.163;58.877;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-16010;Daler stasjon;I DRIFT;58.877;60.752;59.89;SANN;dlr;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-00003;Daler - Mjøndalen;I DRIFT;60.752;63.32;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-16020;Mjøndalen stasjon;I DRIFT;63.32;64.816;64.03;SANN;mjd;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-00004;Mjøndalen - Steinberg;I DRIFT;64.816;66.194;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-16040;Steinberg stasjon;I DRIFT;66.194;67.668;67;SANN;sbg;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-00005;Steinberg - Hokksund;I DRIFT;67.668;69.79;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1600;(Gulskogen) - Hokksund;I DRIFT;2;56.163;71.397;1600-16050;Hokksund stasjon;I DRIFT;69.79;71.397;70.22;SANN;hok;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-00001;Hokksund - Vestfossen;I DRIFT;71.375;74.89;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-16272;Vestfossen stasjon;I DRIFT;74.89;76.542;75.79;SANN;vfs;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-00002;Vestfossen - Darbu;I DRIFT;76.542;80.975;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-16280;Darbu stasjon;I DRIFT;80.975;82.335;81.61;SANN;dar;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-00003;Darbu - Krekling;I DRIFT;82.335;85.388;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-16290;Krekling stasjon;I DRIFT;85.388;86.669;85.76;SANN;kre;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-00004;Krekling - Skollenborg;I DRIFT;86.669;92.086;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-16300;Skollenborg stasjon;I DRIFT;92.086;93.438;92.59;SANN;skl;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1650;(Hokksund) - (Kongsberg);I DRIFT;2;71.375;98.08;1650-00005;Skollenborg - Kongsberg;I DRIFT;93.438;98.08;;USANN;;Vestfoldbanen;Område Oslokorridoren;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-16310;Kongsberg stasjon;I DRIFT;98.08;100.541;99.37;SANN;kbg;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-00001;Kongsberg - Saggrenda;I DRIFT;99.994;105.64;;USANN;;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-16330;Saggrenda stasjon;I DRIFT;105.64;107.386;106.67;SANN;sag;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-00002;Saggrenda - Meheia;I DRIFT;107.386;112.304;;USANN;;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-16340;Meheia stasjon;I DRIFT;112.304;113.609;113.22;SANN;meh;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-00003;Meheia - Øysteinstul;I DRIFT;113.609;124.324;;USANN;;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-16350;Øysteinstul stasjon;I DRIFT;124.324;125.412;125.01;SANN;øys;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-00004;Øysteinstul - Hjuksebø;I DRIFT;125.412;135.722;;USANN;;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-18080;Hjuksebø stasjon;I DRIFT;135.722;137.017;136.24;SANN;hbø;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-00005;Hjuksebø - Nordagutu;I DRIFT;137.017;144.894;;USANN;;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;1660;Kongsberg - Nordagutu;I DRIFT;3;98.08;146.582;1660-18100;Nordagutu stasjon;I DRIFT;144.894;146.582;145.95;SANN;ngu;Sørlandsbanen Øst;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00001;Nordagutu - Gvarv;I DRIFT;146.518;155.973;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-20010;Gvarv stasjon;I DRIFT;155.973;157.234;156.49;SANN;gv;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00002;Gvarv - Bø;I DRIFT;157.234;162.732;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-20020;Bø stasjon;I DRIFT;162.732;164.312;163.44;SANN;bø;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00003;Bø - Lunde;I DRIFT;164.312;176.565;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-20050;Lunde stasjon;I DRIFT;176.565;178.367;177.48;SANN;lun;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00004;Lunde - Nakksjø;I DRIFT;178.367;192.448;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21010;Nakksjø stasjon;I DRIFT;192.448;194.051;193.02;SANN;nak;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00005;Nakksjø - Drangedal;I DRIFT;194.051;204.33;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21030;Drangedal stasjon;I DRIFT;204.33;205.935;204.96;SANN;drd;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00006;Drangedal - Neslandsvatn;I DRIFT;205.935;219.953;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21050;Neslandsvatn stasjon;I DRIFT;219.953;221.653;220.76;SANN;nvt;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00007;Neslandsvatn - Lyser;I DRIFT;221.653;227.039;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21060;Lyser stasjon;I DRIFT;227.039;230.048;228.4;SANN;lsr;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00008;Lyser - Gjerstad;I DRIFT;230.048;235.8;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21070;Gjerstad stasjon;I DRIFT;235.8;237.734;237.05;SANN;gje;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00009;Gjerstad - Skorstøl;I DRIFT;237.734;247.848;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21082;Skorstøl stasjon;I DRIFT;247.848;249.73;248.9;SANN;sst;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00010;Skorstøl - Vegårshei;I DRIFT;249.73;260.968;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21100;Vegårshei stasjon;I DRIFT;260.968;262.443;261.51;SANN;vgh;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00011;Vegårshei - Selåsvatn;I DRIFT;262.443;271.698;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21120;Selåsvatn stasjon;I DRIFT;271.698;273.38;272.63;SANN;såv;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-00012;Selåsvatn - Nelaug;I DRIFT;273.38;280.695;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2000;(Nordagutu) - Nelaug;I DRIFT;3;146.518;282.003;2000-21130;Nelaug stasjon;I DRIFT;280.695;282.003;281.41;SANN;nel;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00001;Nelaug - Helldalsmo;I DRIFT;282.003;288.272;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21140;Helldalsmo stasjon;I DRIFT;288.272;289.727;289.25;SANN;hdm;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00002;Helldalsmo - Herefoss;I DRIFT;289.727;305.026;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21170;Herefoss stasjon;I DRIFT;305.026;306.524;306.03;SANN;hrf;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00003;Herefoss - Fidjetun;I DRIFT;306.524;312.828;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21180;Fidjetun stasjon;I DRIFT;312.828;314.23;313.69;SANN;fid;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00004;Fidjetun - Oggevatn;I DRIFT;314.23;324.61;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21190;Oggevatn stasjon;I DRIFT;324.61;326.04;325.54;SANN;ogv;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00005;Oggevatn - Grovane;I DRIFT;326.04;344.542;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21210;Grovane stasjon;I DRIFT;344.542;345.887;345.25;SANN;grv;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00006;Grovane - Vennesla;I DRIFT;345.887;349.594;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21241;Vennesla stasjon;I DRIFT;349.594;350.764;350.16;SANN;vnl;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00007;Vennesla - Langemyr;I DRIFT;350.764;359.1;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21260;Langemyr stasjon;I DRIFT;359.1;360.843;359.96;SANN;lmy;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00008;Langemyr - Dalane;I DRIFT;360.843;361.26;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21270;Dalane stasjon;I DRIFT;361.26;362.546;362.1;SANN;dne;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-00009;Dalane - Kristiansand;I DRIFT;362.546;364.627;;USANN;;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2120;(Nelaug) - Kristiansand;I DRIFT;3;282.003;368.229;2120-21300;Kristiansand stasjon;I DRIFT;364.627;368.229;365.29;SANN;krs;Sørlandsbanen Midt;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00001;Kristiansand - Nodeland;I DRIFT;368.229;373.213;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21754;Nodeland stasjon;I DRIFT;373.213;376.151;375.29;SANN;ndl;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00002;Nodeland - Breland;I DRIFT;376.151;384.691;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21760;Breland stasjon;I DRIFT;384.691;385.571;385.1;SANN;brl;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00003;Breland - Marnardal;I DRIFT;385.571;401.198;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21780;Marnardal stasjon;I DRIFT;401.198;402.93;402.02;SANN;mdl;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00004;Marnardal - Audnedal;I DRIFT;402.93;418.874;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21800;Audnedal stasjon;I DRIFT;418.874;420.231;419.34;SANN;aud;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00005;Audnedal - Snartemo;I DRIFT;420.231;428.116;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21810;Snartemo stasjon;I DRIFT;428.116;429.321;428.85;SANN;sna;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00006;Snartemo - Sandvatn;I DRIFT;429.321;441.863;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21820;Sandvatn stasjon;I DRIFT;441.863;442.942;442.19;SANN;svt;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00007;Sandvatn - Gyland;I DRIFT;442.942;452.974;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21840;Gyland stasjon;I DRIFT;452.974;453.879;453.53;SANN;gyl;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00008;Gyland - Bjørkevoll;I DRIFT;453.879;459.993;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21850;Bjørkevoll stasjon;I DRIFT;459.993;462.76;461.48;SANN;bvo;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00009;Bjørkevoll - Sira;I DRIFT;462.76;468.099;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-22030;Sira stasjon;I DRIFT;468.099;469.705;468.63;SANN;sir;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00010;Sira - Moi;I DRIFT;469.705;476.606;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-22046;Moi stasjon;I DRIFT;476.606;477.957;477.24;SANN;moi;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00011;Moi - Heskestad;I DRIFT;477.957;490.505;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-22050;Heskestad stasjon;I DRIFT;490.505;491.437;491.09;SANN;hsk;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00012;Heskestad - Ualand;I DRIFT;491.437;496.948;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-22060;Ualand stasjon;I DRIFT;496.948;498.72;498.15;SANN;ual;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00013;Ualand - Helleland;I DRIFT;498.72;510.633;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-22090;Helleland stasjon;I DRIFT;510.633;511.754;511.29;SANN;hll;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-00014;Helleland - Egersund;I DRIFT;511.754;525.107;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-22120;Egersund stasjon;I DRIFT;525.107;526.581;525.56;SANN;egs;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2130;(Kristiansand) - Egersund;I DRIFT;3;368.229;526.581;2130-21751;Suldal stasjon (NEDLAGT);NEDLAGT;;;367.99;SANN;sul;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00001;Egersund - Hellvik;I DRIFT;526.581;532.076;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22140;Hellvik stasjon;I DRIFT;532.076;533.142;532.7;SANN;hev;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00002;Hellvik - Ogna;I DRIFT;533.142;540.303;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22170;Ogna stasjon;I DRIFT;540.303;541.421;540.84;SANN;ogn;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00003;Ogna - Brusand;I DRIFT;541.421;544.097;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22180;Brusand stasjon;I DRIFT;544.097;545.277;544.77;SANN;brs;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00004;Brusand - Vigrestad;I DRIFT;545.277;548.967;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22190;Vigrestad stasjon;I DRIFT;548.967;550.238;549.75;SANN;vig;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00005;Vigrestad - Varhaug;I DRIFT;550.238;555.273;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22200;Varhaug stasjon;I DRIFT;555.273;556.935;555.77;SANN;vhg;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00006;Varhaug - Nærbø;I DRIFT;556.935;560.233;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22210;Nærbø stasjon;I DRIFT;560.233;561.985;561.16;SANN;nbø;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00007;Nærbø - Bryne;I DRIFT;561.985;568.077;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22230;Bryne stasjon;I DRIFT;568.077;570.196;569.3;SANN;bry;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00008;Bryne - Klepp;I DRIFT;570.196;573.442;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22240;Klepp stasjon;I DRIFT;573.442;574.695;573.94;SANN;klp;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00009;Klepp - Ganddal;I DRIFT;574.695;579.806;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22250;Ganddal stasjon;I DRIFT;579.806;581.228;580.55;SANN;gan;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00010;Ganddal - Sandnes;I DRIFT;581.228;582.597;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22260;Sandnes stasjon;I DRIFT;582.597;583.918;583.45;SANN;sas;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00011;Sandnes - Stavanger;I DRIFT;583.918;597.785;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22270;Forus stasjon  (NEDLAGT);NEDLAGT;587.752;589.057;588.41;SANN;fus;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00012;Forus - Hinna  (NEDLAGT);NEDLAGT;589.057;590.952;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22290;Hinna stasjon  (NEDLAGT);NEDLAGT;590.952;592.999;592.55;SANN;hin;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-00013;Hinna - Stavanger  (NEDLAGT);NEDLAGT;592.999;596.223;;USANN;;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2220;(Egersund) - Stavanger;I DRIFT;2;526.581;598.767;2220-22340;Stavanger stasjon;I DRIFT;597.785;598.767;598.7;SANN;stv;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B08;Sørlandsbanen;2270;Ganddal godsterminal;I DRIFT;5;577.761;579.587;2270-22248;Ganddal godsterminal;I DRIFT;577.761;579.587;578.886;SANN;ggt;Sørlandsbanen Vest;Område Sør;56.163;598.767
+B32;Tinnosbanen;1800;(Hjuksebø) - Tinnoset;I DRIFT;5;135.849;175.22;1800-00001;Hjuksebø - Notodden;I DRIFT;135.849;144.874;;USANN;;Sørlandsbanen Øst;Område Sør;135.849;175.22
+B32;Tinnosbanen;1800;(Hjuksebø) - Tinnoset;I DRIFT;5;135.849;175.22;1800-18060;Notodden stasjon;I DRIFT;144.874;146.26;145.72;SANN;ntd;Sørlandsbanen Øst;Område Sør;135.849;175.22
+B32;Tinnosbanen;1800;(Hjuksebø) - Tinnoset;I DRIFT;5;135.849;175.22;1800-00002;Notodden - Tinnoset;IKKE REG;146.26;174.392;;USANN;;Sørlandsbanen Øst;Område Sør;135.849;175.22
+B32;Tinnosbanen;1800;(Hjuksebø) - Tinnoset;I DRIFT;5;135.849;175.22;1800-18000;Tinnoset stasjon;IKKE REG;174.392;175.22;175.12;SANN;tin;Sørlandsbanen Øst;Område Sør;135.849;175.22
+B28;Valdresbanen;680;(Eina) - Dokka;IKKE REG;5;101.47;148.45;0680-00001;Eina - Dokka;IKKE REG;101.47;147.33;;USANN;;Kongsvinger- og Gjøvikbanen;Område Øst;101.47;148.45
+B28;Valdresbanen;680;(Eina) - Dokka;IKKE REG;5;101.47;148.45;0680-06410;Dokka stasjon;IKKE REG;147.33;148.45;147.91;SANN;dok;Kongsvinger- og Gjøvikbanen;Område Øst;101.47;148.45
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00001;Drammen - Kobbervik;I DRIFT;54.07;59.505;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-14990;Kobbervik stasjon;I DRIFT;59.505;61.001;60.98;SANN;kob;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00002;Kobbervik - Galleberg;I DRIFT;61.001;67.065;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15010;Galleberg stasjon;I DRIFT;67.065;69.725;68.14;SANN;gab;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00003;Galleberg - Holm;I DRIFT;69.725;76.238;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15030;Holm stasjon;I DRIFT;76.238;78.013;76.75;SANN;hom;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00004;Holm - Holmestrand;I DRIFT;78.013;85.378;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15050;Holmestrand stasjon;I DRIFT;85.378;86.526;86.09;SANN;hsd;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00005;Holmestrand - Nykirke;I DRIFT;86.526;91.422;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15060;Nykirke (kryssingsspor) stasjon;I DRIFT;91.422;94.07;92.75;SANN;nyk;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00006;Nykirke - Skoppum;I DRIFT;94.07;98.727;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15070;Skoppum stasjon;I DRIFT;98.727;99.965;99.54;SANN;skp;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00007;Skoppum - Barkåker;I DRIFT;99.965;107.279;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15090;Barkåker stasjon;I DRIFT;107.279;112.241;109.69;SANN;bår;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00008;Barkåker - Tønsberg;I DRIFT;112.241;113.162;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15100;Tønsberg stasjon;I DRIFT;113.162;114.367;113.926;SANN;tbg;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00009;Tønsberg - Sem;I DRIFT;114.367;120.475;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15110;Sem stasjon;I DRIFT;120.475;122.252;121.06;SANN;sem;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00010;Sem - Stokke;I DRIFT;122.252;127.755;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15120;Stokke stasjon;I DRIFT;127.755;129.364;128.24;SANN;st;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00011;Stokke - Sandefjord;I DRIFT;129.364;139.006;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15140;Sandefjord stasjon;I DRIFT;139.006;140.036;139.52;SANN;sfj;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00012;Sandefjord - Lauve;I DRIFT;140.036;148.983;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15160;Lauve stasjon;I DRIFT;148.983;150.95;149.8;SANN;lau;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-00013;Lauve - Larvik;I DRIFT;150.95;157.934;;USANN;;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15190;Larvik stasjon;I DRIFT;157.934;159.176;158.66;SANN;lvk;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15020;Sande stasjon  (NEDLAGT);NEDLAGT;;;73.02;SANN;snd;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1510;(Drammen) - Larvik;I DRIFT;2;54.07;159.176;1510-15000;Skoger stasjon  (NEDLAGT);NEDLAGT;;;63.05;SANN;skg;Vestfoldbanen;Område Oslokorridoren;54.07;192.136
+B09;Vestfoldbanen;1520;(Larvik) - (Eidanger);I DRIFT;2;159.176;192.136;1520-00001;Larvik - Oklungen;I DRIFT;159.176;181.797;;USANN;;Sørlandsbanen Øst;Område Sør;54.07;192.136
+B09;Vestfoldbanen;1520;(Larvik) - (Eidanger);I DRIFT;2;159.176;192.136;1520-15220;Oklungen stasjon;I DRIFT;181.797;182.927;182.1;SANN;okl;Sørlandsbanen Øst;Område Sør;54.07;192.136
+B09;Vestfoldbanen;1520;(Larvik) - (Eidanger);I DRIFT;2;159.176;192.136;1520-00002;Oklungen - Eidanger;I DRIFT;182.927;192.136;;USANN;;Sørlandsbanen Øst;Område Sør;54.07;192.136
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00001;Oslo S - Bekkelaget;I DRIFT;2.403;3.9876;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05007;Bekkelaget stasjon;I DRIFT;3.9876;4.8789;4.3;SANN;bek;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00002;Bekkelaget - Ljan;I DRIFT;4.8789;6.2729;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05020;Ljan stasjon;I DRIFT;6.2729;7.361;7.15;SANN;lja;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00003;Ljan - Holmlia;I DRIFT;7.361;8.6539;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05035;Holmlia stasjon;I DRIFT;8.6539;10.3148;9.85;SANN;hlm;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00004;Holmlia - Kolbotn;I DRIFT;10.3148;12.1426;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05040;Kolbotn stasjon;I DRIFT;12.1426;13.808;12.86;SANN;kol;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00005;Kolbotn - Myrvoll;I DRIFT;13.808;15.5804;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05054;Myrvoll stasjon;I DRIFT;15.5804;16.6296;15.72;SANN;myv;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00006;Myrvoll - Oppegård;I DRIFT;16.6296;17.1005;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05060;Oppegård stasjon;I DRIFT;17.1005;18.3313;18.26;SANN;opg;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00007;Oppegård - Langhus;I DRIFT;18.3313;19.9497;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05070;Langhus stasjon;I DRIFT;19.9497;21.0046;20.77;SANN;lan;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-00008;Langhus - Ski;I DRIFT;21.0046;23.2439;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;540;(Oslo S) - Ski;I DRIFT;1;2.403;25.582;0540-05080;Ski stasjon;I DRIFT;23.2439;25.582;24.31;SANN;ski;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-00001;Ski - Ås;I DRIFT;25.582;29.965;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-05100;Ås stasjon;I DRIFT;29.965;31.783;31.69;SANN;ås;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-00002;Ås - Vestby;I DRIFT;31.783;37.758;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-05110;Vestby stasjon;I DRIFT;37.758;40.099;38.65;SANN;vby;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-00003;Vestby - Hølen;I DRIFT;40.099;43.641;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-05115;Hølen stasjon;I DRIFT;43.641;46.492;45.2;SANN;hln;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-00004;Hølen - Kambo;I DRIFT;46.492;52.133;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-05130;Kambo stasjon;I DRIFT;52.133;55.08;53.84;SANN;kam;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-00005;Kambo - Sandbukta;I DRIFT;55.08;56.74;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-05135;Sandbukta stasjon;I DRIFT;56.74;58.332;57.187;SANN;sab;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-00006;Sandbukta - Moss;I DRIFT;58.332;59.276;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;550;(Ski) - Moss;I DRIFT;1;25.582;61.475;0550-05160;Moss stasjon;I DRIFT;59.276;61.475;60.16;SANN;mos;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00001;Moss - Dilling;I DRIFT;61.475;64.8517;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05170;Dilling stasjon;I DRIFT;64.8517;65.9423;65.34;SANN;dil;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00002;Dilling - Rygge;I DRIFT;65.9423;66.971;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05180;Rygge stasjon;I DRIFT;66.971;70.915;69.28;SANN;ryg;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00003;Rygge - Haug;I DRIFT;70.915;73.3881;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05185;Haug stasjon;I DRIFT;73.3881;74.552;74.01;SANN;hg;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00004;Haug - Råde;I DRIFT;74.552;76.402;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05190;Råde stasjon;I DRIFT;76.402;77.5842;77.01;SANN;råd;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00005;Råde - Onsøy;I DRIFT;77.5842;85.4446;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05210;Onsøy stasjon;I DRIFT;85.4446;87.021;86.51;SANN;ons;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00006;Onsøy - Fredrikstad;I DRIFT;87.021;93.3675;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05220;Fredrikstad stasjon;I DRIFT;93.3675;95.4003;94.26;SANN;fre;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00007;Fredrikstad - Lisleby;I DRIFT;95.4003;97.443;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05240;Lisleby stasjon;I DRIFT;97.443;98.354;97.75;SANN;lby;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00008;Lisleby - Rolvsøy;I DRIFT;98.354;100.0428;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05245;Rolvsøy stasjon;I DRIFT;100.0428;101.8477;101.04;SANN;rvy;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00009;Rolvsøy - Sandesund;I DRIFT;101.8477;105.9505;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05260;Sandesund stasjon;I DRIFT;105.9505;107.4029;106.64;SANN;sds;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-00010;Sandesund - Sarpsborg;I DRIFT;107.4029;108.42;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05271;Sarpsborg stasjon;I DRIFT;108.42;113.0668;109.47;SANN;sbo;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;560;(Moss) - Sarpsborg;I DRIFT;2;61.475;113.0668;0560-05250;Greåker stasjon  (NEDLAGT);NEDLAGT;;;103.17;SANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-00001;Sarpsborg - Skjeberg;I DRIFT;111.8706;117.9648;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-05430;Skjeberg stasjon;I DRIFT;117.9648;120.4707;119.1;SANN;skj;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-00002;Skjeberg - Ingedal;I DRIFT;120.4707;125.1677;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-05440;Ingedal stasjon;I DRIFT;125.1677;126.9087;126.1;SANN;ing;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-00003;Ingedal - Berg;I DRIFT;126.9087;129.85;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-05450;Berg stasjon;I DRIFT;129.85;131.9688;130.93;SANN;bg;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-00004;Berg - Halden;I DRIFT;131.9688;135.7873;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-05460;Halden stasjon;I DRIFT;135.7873;138.112;136.64;SANN;hld;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-00005;Halden - Aspedammen;I DRIFT;138.112;149.6901;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-05480;Aspedammen stasjon;I DRIFT;149.6901;151.496;150.12;SANN;asp;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-00006;Aspedammen - Kornsjø;I DRIFT;151.496;168.5075;;USANN;;Østfoldbanen;Område Øst;2.403;170.123
+B01;Østfoldbanen vestre linje;570;(Sarpsborg) - Kornsjø;I DRIFT;2;111.8706;170.123;0570-05510;Kornsjø stasjon;I DRIFT;168.5075;170.123;169.12;SANN;ko;Østfoldbanen;Område Øst;2.403;170.123
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00001;Ski - Kråkstad;I DRIFT;0.559;5.222;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05282;Kråkstad stasjon;I DRIFT;5.222;6.415;5.78;SANN;krå;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00002;Kråkstad - Tomter;I DRIFT;6.415;11.9181;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05300;Tomter stasjon;I DRIFT;11.9181;13.4127;12.89;SANN;tom;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00003;Tomter - Spydeberg;I DRIFT;13.4127;19.7965;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05320;Spydeberg stasjon;I DRIFT;19.7965;20.9608;20.32;SANN;spg;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00004;Spydeberg - Askim;I DRIFT;20.9608;28.3212;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05330;Askim stasjon;I DRIFT;28.3212;30.098;29.1;SANN;asm;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00005;Askim - Mysen;I DRIFT;30.098;38.7275;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05360;Mysen stasjon;I DRIFT;38.7275;40.0409;39.47;SANN;mys;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00006;Mysen - Rakkestad;I DRIFT;40.0409;53.8803;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05390;Rakkestad stasjon;I DRIFT;53.8803;55.0515;54.31;SANN;rst;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00007;Rakkestad - Ise;IKKE REG;55.0515;71.5678;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-05410;Ise stasjon;IKKE REG;71.5678;72.8032;72.4;SANN;ise;Østfoldbanen;Område Øst;0.559;76.8392
+B10;Østfoldbanen østre linje;580;(Ski) - (Sarpsborg) østre linje;I DRIFT;3;0.559;76.8392;0580-00008;Ise - Sarpsborg;IKKE REG;72.8032;76.8392;;USANN;;Østfoldbanen;Område Øst;0.559;76.8392
+B38;Ålgårdbanen;2260;(Ganddal) - Ålgård;IKKE REG;5;580.75;592.5;2260-00001;Ganddal - Ålgård (delstr.);IKKE REG;580.75;592.5;;USANN;;Sørlandsbanen Vest;Område Sør;580.75;592.5
